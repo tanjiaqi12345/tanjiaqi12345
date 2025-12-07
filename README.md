@@ -3,6 +3,10 @@
 
 - 🔭 I’m currently study on **UNIVERSITI TEKNOLOGI MALAYSIA(UTM)**
 
+- 🌱 I’m currently learning **Bachelor of Computer Science (Graphics and Multimedia Software)**
+
+- 📫 How to reach me **tanjiaqi@graduate.utm.my**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
