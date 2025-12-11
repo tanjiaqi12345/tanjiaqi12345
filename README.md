@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FxdGhzM2MxOHh3cnU2am5uNnl3d3c4cGlhOWNkc3RueXo4bGJjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zUQrlUk7Zo51n57CNC/giphy.gif" align="center" style="width: 50%" />
-</div>  
-  
-
+ 
 ### <div align="center">Hi 👋, I'm Tan Jia Qi
 A year1 computer science student of UTM👩‍🎓👩‍🎓</div>  
   
@@ -15,7 +11,9 @@ A year1 computer science student of UTM👩‍🎓👩‍🎓</div>
 
 - 📫 How to reach me tanjiaqi@graduate.utm.my  
   
-
+<div align="right">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FxdGhzM2MxOHh3cnU2am5uNnl3d3c4cGlhOWNkc3RueXo4bGJjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zUQrlUk7Zo51n57CNC/giphy.gif" align="center" style="width: 50%" />
+</div> 
 <br/>  
 
 
@@ -31,14 +29,15 @@ A year1 computer science student of UTM👩‍🎓👩‍🎓</div>
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/tanjiaqi12345" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+## Courses
 
-<br />
+<p align="left">
+-SECI1013 DISCRETE STRUCTURE
+  
+-SECJ1013 PROGRAMMING TECHNIQUE I
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+-SECP1513 TECHNOLOGY AND INFORMATION SYSTEM
+
+-SECR1013 DIGITAL LOGIC
+
+-ULRS1032 INTEGRITY AND ANTI-CORRUPTION COURSE
