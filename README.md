@@ -13,7 +13,11 @@ A year1 computer science student of UTM👩‍🎓👩‍🎓</div>
 - 🌱 I’m currently learning Bachelor of Computer Science (Graphics and Multimedia Software)  
   
 
-- 📫 How to reach me tanjiaqi@graduate.utm.my  
+- 📫 How to reach me tanjiaqi@graduate.utm.my
+
+- ☕ My Linkedln https://www.linkedin.com/in/tan-jia-qi-b0a885393/
+
+- 🍀 My Portfolio website https://jiaqi4861.my.canva.site/portfolio
   
 
 
@@ -30,14 +34,11 @@ A year1 computer science student of UTM👩‍🎓👩‍🎓</div>
 
 
 ## Courses: 
-
-<p align="left">
--SECI1013 DISCRETE STRUCTURE
-  
--SECJ1013 PROGRAMMING TECHNIQUE I
-
--SECP1513 TECHNOLOGY AND INFORMATION SYSTEM
-
--SECR1013 DIGITAL LOGIC
-
--ULRS1032 INTEGRITY AND ANTI-CORRUPTION COURSE
+**Y1S1**
+|          NO.      |Reflection                      |
+|----------------|-------------------------------|
+|**SECI1013**|DISCRETE STRUCTURE|
+|**SECJ1013** |PROGRAMMING TECHNIQUE I|
+|**SECP1513** |TECHNOLOGY AND INFORMATION SYSTEM|
+|**SECR1013** |DIGITAL LOGIC|
+|**ULRS1032** |INTEGRITY AND ANTI-CORRUPTION COURSE|
