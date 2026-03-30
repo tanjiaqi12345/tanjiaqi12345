@@ -34,10 +34,22 @@
 
 ## Courses: 
 **Y1S1:**
-|          NO.      |Reflection                      |
+|          NO.      |COURSE                      |
 |----------------|-------------------------------|
 |**SECI1013**|DISCRETE STRUCTURE|
 |**SECJ1013** |PROGRAMMING TECHNIQUE I|
 |**SECP1513** |TECHNOLOGY AND INFORMATION SYSTEM|
 |**SECR1013** |DIGITAL LOGIC|
 |**ULRS1032** |INTEGRITY AND ANTI-CORRUPTION COURSE|
+
+<div align="right">
+  
+**Y1S2:**
+|          NO.      |COURSE                     |
+|----------------|-------------------------------|
+|**SECJ1023**|PROGRAMMING TECHNIQUE II|
+|**SECI1143** |PROBABILITY & STATISTICAL DATA ANALYSIS|
+|**SECD2613** |SYSTEM ANALYSIS AND DESIGN|
+|**SECR1033** |COMPUTER ORGANIZATION AND ARCHITECTURE|
+|**SECV1113** |MATHEMATICS FOR COMPUTER GRAPHICS|
+|**ULRS1182** |APPRECIATION OF ETHICS AND CIVILIZATIONS|
